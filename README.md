@@ -1,6 +1,6 @@
 # Data Scientist Nanodegree
 # Supervised Learning
-## Project: Finding Donors for CharityML
+## Project1: Finding Donors for CharityML
 
 ### Install
 
